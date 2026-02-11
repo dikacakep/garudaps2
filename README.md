@@ -2,7 +2,7 @@
 
 ![GarudaPS Banner](public/images/banner.jpg)
 
-> A premium, high-performance landing page for **GarudaPS**. Built with **Next.js 14 (App Router)**, **Tailwind CSS**, and **Framer Motion**, featuring ultra-realistic Glassmorphism UI, immersive audio, and animated background particles.
+> A premium, high-performance landing page for **GarudaPS**. Built with **Next.js 14 (App Router)**, **Tailwind CSS**, and **Framer Motion**, featuring ultra-realistic Glassmorphism UI, immersive audio, and animated Website.
 
 ## ✨ Key Features
 
