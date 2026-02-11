@@ -38,19 +38,32 @@ const TUTORIAL_DATA: TutorialItem[] = [
       { text: "Open the app, and have fun!!" }
     ]
   },
-  {
+    {
     id: "windows",
     label: "Windows",
     icon: Monitor,
     color: "text-blue-400",
     imageSrc: "/images/icons/win.png",
     steps: [
-      { text: "Press Win+R → Type this path:", code: "C:\\Windows\\System32\\drivers\\etc" },
-      { text: "Right click 'hosts' file → Open with Notepad (Run as Admin)." },
-      { text: "Paste these lines at the very bottom:", code: "157.66.54.50 www.growtopia1.com\n157.66.54.50 www.growtopia2.com", isMultiLine: true },
-      { text: "Save the file (Ctrl+S) → Launch Growtopia." }
+      { 
+        text: "Download 'GarudaPS Auto-Patcher'", 
+        link: "/files/garuda_patcher.bat",
+        isDownload: true 
+      },
+      { 
+        text: "Right click the file → Run as Administrator." 
+      },
+      { 
+        text: "Type 'Y' and press Enter when asked to install.", 
+        code: "Do you want to install GarudaPS hosts entries? (Y/N): Y" 
+      },
+      { 
+        text: "Wait for 'Install complete' message → Launch Growtopia." 
+      },
     ]
   },
+
+  
   {
     id: "android-pt",
     label: "PowerTunnel",
