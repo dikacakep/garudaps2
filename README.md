@@ -8,7 +8,7 @@
 
 - **👻 Floating Ghost Particles**: Custom animated background characters that float randomly across the screen using Framer Motion.
 - **🎵 Immersive Audio System**: "Enter World" overlay screen that bypasses browser autoplay restrictions to play background music (`bgm.mp3`).
-- **📱 Fully Responsive**: Optimized for Desktop, Tablet, and Mobile.
+- **📱 Fully Responsive**: Optimized for PC, Tablet, and Mobile.
 - **🟢 Live Server Status**: Pulsing indicator for server uptime and player count.
 - **🔄 Infinite Carousel**: Auto-scrolling features section with smooth fade gradients.
 - **📚 Dynamic Tutorials**: Step-by-step guides for connecting via Windows, Android, iOS, and Mac.
