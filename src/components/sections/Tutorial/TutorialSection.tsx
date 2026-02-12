@@ -34,7 +34,7 @@ const TUTORIAL_DATA: TutorialItem[] = [
     steps: [
       { text: "Uninstall Real Growtopia if you have it. " },
       { text: "Restart your device (optional but recommended)." },
-      { text: "Install the GarudaPs APK.", link: "http://apk.garudaps.com"},
+      { text: "Install the GarudaPs APK.", link: "https://apk.garudaps.com"},
       { text: "Open the app, and have fun!!" }
     ]
   },
