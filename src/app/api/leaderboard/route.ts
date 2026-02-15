@@ -2,7 +2,7 @@ import { NextResponse } from "next/server";
 
 export async function GET() {
   try {
-    const res = await fetch("https://api.gtpscache.site/api/leaderboard", {
+    const res = await fetch("https://garuda.gtpscache.site/api/leaderboard", {
       cache: "no-store",
     });
 
