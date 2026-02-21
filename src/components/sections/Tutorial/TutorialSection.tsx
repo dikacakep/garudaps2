@@ -37,19 +37,19 @@ interface TutorialItem {
 }
 
 const TUTORIAL_DATA: TutorialItem[] = [
-  // {
-  //   id: "apk",
-  //   label: "Application",
-  //   icon: Smartphone,
-  //   color: "text-orange-400",
-  //   imageSrc: "/images/logo/garudaps.jpg",
-  //   steps: [
-  //     { text: "Uninstall Real Growtopia if you have it. " },
-  //     { text: "Restart your device (optional but recommended)." },
-  //     { text: "Install the GarudaPs APK.", link: "https://apk.garudaps.com"},
-  //     { text: "Open the app, and have fun!!" }
-  //   ]
-  // },
+   {
+     id: "apk",
+     label: "Application",
+     icon: Smartphone,
+     color: "text-orange-400",
+     imageSrc: "/images/logo/garudaps.jpg",
+     steps: [
+       { text: "Uninstall Real Growtopia if you have it. " },
+       { text: "Restart your device (optional but recommended)." },
+       { text: "Install the GarudaPs APK.", link: "https://www.mediafire.com/file/xhyzax3iuvftdg1/GarudaPS_x64_5.42.apk/file"},
+       { text: "Open the app, and have fun!!" }
+     ]
+  },
   {
     id: "windows",
     label: "Windows",
